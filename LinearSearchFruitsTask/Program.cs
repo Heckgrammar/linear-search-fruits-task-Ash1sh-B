@@ -16,10 +16,7 @@
             {
                 Console.Writeline("true")
             }
-            else 
-            {
-                Console.Writeline("false")
-            }
+           
             else if (fruits[2] == word)
             {
                 Console.Writeline("true")
